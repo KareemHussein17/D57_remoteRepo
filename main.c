@@ -3,7 +3,8 @@
 int main()
 {
 	
-	printf("First Update");
+	printf("Seconed");
+	printf("Update");
 	
 	return 0;
 }
